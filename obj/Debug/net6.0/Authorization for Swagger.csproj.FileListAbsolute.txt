@@ -1,0 +1,31 @@
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\appsettings.Development.json
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\appsettings.json
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Authorization for Swagger.exe
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Authorization for Swagger.deps.json
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Authorization for Swagger.runtimeconfig.json
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Authorization for Swagger.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Authorization for Swagger.pdb
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.csproj.AssemblyReference.cache
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.AssemblyInfoInputs.cache
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.AssemblyInfo.cs
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.csproj.CoreCompileInputs.cache
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.MvcApplicationPartsAssemblyInfo.cs
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\scopedcss\bundle\Authorization for Swagger.styles.css
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.csproj.CopyComplete
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\refint\Authorization for Swagger.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.pdb
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\Authorization for Swagger.genruntimeconfig.cache
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\obj\Debug\net6.0\ref\Authorization for Swagger.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repository\Back\.dotnet Core 6 Authorization for Swagger\Authorization for Swagger\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
